@@ -1,0 +1,9 @@
+{
+  "name": "rxjs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "jsencrypt": "^3.2.0",
+    "rxjs": "^7.1.0"
+  }
+}
